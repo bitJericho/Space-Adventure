@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Space Adventure" />
+		<Option pch_mode="2" />
+		<Option compiler="agk_compiler" />
+		<Build>
+			<Target title="Debug">
+				<Option output="Space Adventure" prefix_auto="1" extension_auto="1" />
+				<Option object_output="" />
+				<Option type="0" />
+				<Option compiler="agk_compiler" />
+			</Target>
+			<Target title="Release">
+				<Option output="Space Adventure" prefix_auto="1" extension_auto="1" />
+				<Option object_output="" />
+				<Option type="0" />
+				<Option compiler="agk_compiler" />
+			</Target>
+		</Build>
+		<Unit filename="UCF_Lib\Controls.agc">
+			<Option compile="0" />
+			<Option link="0" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="UCF_Lib\Debugging.agc">
+			<Option compile="0" />
+			<Option link="0" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="UCF_Lib\FX.agc">
+			<Option compile="0" />
+			<Option link="0" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="UCF_Lib\FileImporting.agc">
+			<Option compile="0" />
+			<Option link="0" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="UCF_Lib\Initialisation.agc">
+			<Option compile="0" />
+			<Option link="0" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="UCF_Lib\Mathematics.agc">
+			<Option compile="0" />
+			<Option link="0" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="UCF_Lib\Sprites.agc">
+			<Option compile="0" />
+			<Option link="0" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="UCF_Lib\Strings.agc">
+			<Option compile="0" />
+			<Option link="0" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="UCF_Lib\Text.agc">
+			<Option compile="0" />
+			<Option link="0" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="UCF_Lib\Time.agc">
+			<Option compile="0" />
+			<Option link="0" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="UCF_Lib\Tools.agc">
+			<Option compile="0" />
+			<Option link="0" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="UCF_Lib\Undocumented.agc">
+			<Option compile="0" />
+			<Option link="0" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="UCF_Lib\World.agc">
+			<Option compile="0" />
+			<Option link="0" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="main.agc">
+			<Option link="0" />
+		</Unit>
+		<Unit filename="setup.agc">
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
